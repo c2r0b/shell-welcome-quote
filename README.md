@@ -17,5 +17,5 @@ Alternatively, you can clone this repository and run the `install.sh` script.
 At the time of writing, the limit is 5 requests every 30 seconds.
 For most users, this should be more than enough as it translates in the number of times you open a new shell in a 30 second window.
 
-The script gets the same usage limits as the [ZenQuotes API](https://zenquotes.io/) that it uses to generate the quotes.
+The script gets the same usage limits as the [ZenQuotes API](https://zenquotes.io/) that it uses to generate the quotes.  
 See updated limits [here](https://docs.zenquotes.io/zenquotes-documentation/#use-limits).
